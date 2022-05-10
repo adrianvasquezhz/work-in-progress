@@ -1,0 +1,24 @@
+GET http://localhost:3050/notes/
+
+###
+
+DELETE http://localhost:3050/api/5
+
+###
+
+POST http://localhost:3050/notes
+Content-Type: application/json
+
+{
+   "content": "TheAdrian123",
+   "important": "secret"
+}
+
+###
+
+PUT http://localhost:3050/api/8
+Content-Type: application/json
+
+{
+   "age": 14
+}

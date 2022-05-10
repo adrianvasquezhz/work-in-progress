@@ -1,0 +1,4 @@
+node_modules
+.env.local
+password.js
+mongodb_index.js
