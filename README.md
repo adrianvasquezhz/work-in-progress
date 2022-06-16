@@ -1,2 +1,2 @@
-# api.postgresql.and.mongodb
+# work in progress
 Full javascript code basic Api using mongoDB (nosql) and PostgreSQLfor relational DDBB.
